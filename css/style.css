@@ -1,0 +1,761 @@
+/*		ШРИФТИ		*/
+
+@font-face {
+	font-family: 'Sunday-Regular';
+	src: url('../fonts/Sunday-Regular.ttf');
+}
+
+@font-face {
+	font-family: 'Propisi';
+	src: url('../fonts/Propisi.ttf');
+}
+
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 10px;
+	overflow-x: hidden;
+}
+
+.wrap {
+	overflow: hidden;
+}
+
+a {
+	text-decoration: none;
+}
+
+img {
+	width: 100%;
+	display: block;
+}
+
+.genBG {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 0;
+}
+
+.mini-bg {
+	display: none;
+}
+
+.bg {
+	position: relative;
+	width: 100%;
+	height: auto;
+	z-index: 0;
+}
+
+
+
+.header-contant {
+	position: relative;
+	width: 100%;
+}
+
+/*		БЛОК 1		*/
+
+.header-contant .treeLeft {
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 4;
+	width: 24%;
+}
+
+.header-contant .logo {
+	position: absolute;
+	left: 9%;
+	top: 0;
+	z-index: 5;
+	width: 20%;
+}
+
+.header-contant .content {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+
+/*		ГОЛОВНЕ МЕНЮ		*/
+
+/*		КНОПКА ЗГОРТАННЯ		*/
+
+.content .sidebar {
+	display: none;
+}
+
+.mini-menu #close-slide a {
+	display: none;
+}
+
+.header-contant .content .menu {
+	margin: 0 0 0 29.2%;
+	display: flex;
+}
+
+.header-contant .content .main-menu {
+
+	display: inline-flex;
+	align-items: center;
+	width: 100%;
+}
+
+.header-contant .main-menu .mini-menu a {
+	margin-right: 11%;
+	font-size: 2.8em;
+	color: #fff;
+	font-family: 'Sunday-Regular';
+
+}
+
+.header-contant .main-menu .mini-menu a:last-child {
+	margin-right: 0%;
+}
+
+
+.header-contant .content .mini-menu {
+	width: 54%;
+	position: relative;
+	z-index: 7;
+}
+
+.header-contant .btn-call {
+	position: relative;
+	display: inline-block;
+	width: 24%;
+	padding-top: 2.1%;
+
+}
+
+.header-contant .btn-call span {
+	position: absolute;
+	right: 18%;
+	top: 3vw;
+	font-family: cursive;
+	font-style: italic;
+	font-size: 2em;
+	color: #fff;
+}
+
+.header-contant .btn-caret {
+	display: block;
+	position: relative;
+	padding-top: 20px;
+	padding-left: 2%;
+	width: 5%;
+	z-index: 7;
+
+}
+
+.header-contant .btn-caret span {
+	position: absolute;
+	top: 2.5vw;
+	right: 16%;
+	z-index: 8;
+	font-family: fantasy;
+	font-size: 1.45em;
+	color: #4d2436;
+}
+
+
+.header-contant .btn-call .tel {
+	width: 100%;
+	display: block;
+	text-align: center;
+	z-index: 7;
+	color: #fff;
+}
+
+p {
+	font-size: 1.4em;
+	font-family: sans-serif;
+	line-height: 1.3em;
+
+}
+
+.header-contant .btn-call .tel .big-numb {
+
+	font-size: 2.4em;
+	color: #fff;
+	font-family: sans-serif;
+	line-height: 1.5em;
+	font-weight: 500;
+}
+
+.header-contant .treeRight {
+	position: absolute;
+	right: 0;
+	top: 0;
+	z-index: 4;
+	width: 19.7%;
+}
+
+.title-in-crnter-head {
+	text-align: center;
+	margin-top: 6.3vw;
+	display: flex;
+}
+
+.title-in-crnter-head .playArea {
+	width: 42%;
+}
+
+.title-in-crnter-head p {
+	width: 26%;
+	margin-left: 7.6%;
+	margin-top: 7vw;
+	font-size: 6em;
+	color: #fff;
+	font-family: 'Sunday-Regular';
+}
+
+.star {
+	position: absolute;
+	right: 16.5%;
+	top: 18.7vw;
+	z-index: 2;
+	width: 6%;
+}
+
+.ball {
+	position: absolute;
+	right: 1%;
+	top: 18.5vw;
+	z-index: 2;
+	width: 10.6%;
+}
+
+.bunchesRignt {
+	position: absolute;
+	right: 0;
+	top: 24.3vw;
+	z-index: 2;
+	width: 14%;
+}
+
+.bunch {
+	position: absolute;
+	left: 0.7%;
+	top: 56.47vw;
+	z-index: 2;
+	width: 6.8%;
+}
+
+.starLeftLittle {
+	position: absolute;
+	left: 24.1%;
+	top: 55.3vw;
+	z-index: 2;
+	width: 4.5%;
+}
+
+.canella {
+	position: absolute;
+	right: 0;
+	top: 47.9vw;
+	z-index: 5;
+	width: 10%;
+}
+
+/*		СЕКЦІЯ	2	*/
+
+.section-1 {
+	position: relative;
+	z-index: 1;
+	color: #48474a;
+}
+
+.section-1 .slider-description {
+	position: absolute;
+	top: 3.4vw;
+	left: 36.5%;
+	z-index: 3;
+	text-transform: uppercase;
+	line-height: 3em;
+	text-align: center;
+}
+
+.section-1 .slider-big-name {
+	font-size: 4.39em;
+	font-family: 'Sunday-Regular';
+}
+
+.section-1 .slider-little-name {
+	font-size: 2.7em;
+	line-height: 3.9em;
+	font-family: sans-serif;
+}
+
+/*		МОТУЗКА		*/
+
+.section-1 .rope {
+	position: absolute;
+	width: 100%;
+	top: 14.7vw;
+}
+
+/*		СЛАЙДЕР		*/
+
+.section-1 .slider {
+	margin: 10.5% 5% 0 5%;
+	width: 90%;
+	position: absolute;
+	top: 0;
+	display: inline-flex;
+	justify-content: space-between;
+	z-index: 6;
+}
+
+.section-1 .slider .slides {
+	height: 750px;
+	position: relative;
+}
+
+.section-1 .slider .rotation-1 {
+	width: 100%;
+	transform: rotate(7deg);
+}
+
+.section-1 .slider .rotation-2 {
+	width: 100%;
+	transform: rotate(-8deg);
+}
+
+.section-1 .slider .rotation-3 {
+	width: 100%;
+	transform: rotate(2deg);
+}
+
+.section-1 .slider .rotation-4 {
+	width: 100%;
+	transform: rotate(8deg);
+}
+
+/*		СЛАЙДИКИ		*/
+
+/*		ВМІСТ СЛАЙДИКІВ		*/
+
+.section-1 .slider .slides .slides-main {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 6;
+
+}
+
+.section-1 .slider .slides .slides-contant {
+	position: absolute;
+	top: 13vw;
+	width: 80%;
+	left: 11%;
+	z-index: 4;
+
+}
+
+.section-1 .slider .slides .slides-text {
+	position: absolute;
+	top: 30vw;
+	left: 45%;
+	z-index: 3;
+	font-family: 'Sunday-Regular';
+	color: #4d2436;
+	font-size: 25px;
+	z-index: 6;
+}
+
+.section-1 .slider .slides .slides-text {
+	top: 32vw;
+	left: 45%;
+	font-size: 25px;
+}
+
+.section-1 .slider .slides .slides-text {
+	font-size: 25px;
+}
+
+
+.section-1 .prev {
+	position: absolute;
+	top: 31.3vw;
+	left: 1.6%;
+	width: 3.2%;
+	z-index: 2;
+}
+
+.section-1 .next {
+	position: absolute;
+	top: 31.3vw;
+	right: 1.2%;
+	width: 3.2%;
+	z-index: 2;
+}
+
+.bunch-s2 {
+	position: absolute;
+	top: 49.9vw;
+	left: 6.3%;
+	width: 12.9%;
+	z-index: 1;
+}
+
+.tree-midle {
+	position: absolute;
+	right: 0;
+	top: 27.5vw;
+	width: 26.1%;
+	z-index: 1;
+
+}
+
+
+/*		СЕКЦІЯ 3		*/
+
+.section-2 {
+	position: relative;
+	width: 100%;
+	z-index: 0;
+}
+
+/* 		КАРТИНК БЛОКУ 		*/
+
+.section-2 .santa {
+	position: absolute;
+	z-index: 2;
+	width: 9.8%;
+	top: 35vw;
+	left: 3.9%;
+
+}
+
+.section-2 .tree-toy {
+	position: absolute;
+	z-index: 2;
+	width: 5.2%;
+	top: 2vw;
+	right: 0.8%;
+}
+
+/*		ТІЛО БЛОКУ 		*/
+
+.order-proposition {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+/*		ЗАГОЛОВОК		*/
+
+.section-2 .order-proposition .caption-s2 {
+	text-align: center;
+	margin: 0.5vw 0 0 2%;
+}
+
+.section-2 .order-proposition p {
+	font-family: "Sunday-Regular";
+	text-transform: uppercase;
+	font-size: 4.4em;
+	color: #fff;
+}
+
+/*			ФОРМА ЗАМОВЛЕННЯ + КОРОБОЧКИ		*/
+
+.order-proposition .inline-content {
+	display: inline-flex;
+}
+
+
+/*			ФОРМА ЗАМОВЛЕННЯ		*/
+
+.section-2 .tree-bord {
+	position: relative;
+	z-index: 4;
+	margin: -4vw 0 0 1%;
+}
+
+
+.section-2 form .make-order {
+	position: absolute;
+	z-index: 5;
+	top: 13vw;
+	left: 29.2%;
+	width: 40%;
+}
+
+.section-2 form input {
+	z-index: 6;
+	width: 95%;
+	margin: 0 0 9% 0;
+	padding: 7% 0;
+	border-radius: 9px;
+	font-family: "Sunday-Regular";
+	text-align: center;
+	box-shadow: -4px -4px 17px 0px rgba(255, 255, 255, 0.65);
+	font-size: 2.5em;
+}
+
+.section-2 form .order-btn {
+	position: relative;
+}
+
+.section-2 form .order-btn p {
+	position: absolute;
+	top: 1vw;
+	left: 17%;
+	font-size: 3.4em;
+}
+
+
+/*			КОРОБОЧКИ			*/
+
+.section-2 .order-proposition .block-content {
+	display: block;
+}
+
+.section-2 .box1 {
+	width: 75.5%;
+	margin: 3vw 0 0 -2%;
+}
+
+.section-2 .box-2 {
+	width: 100%;
+	margin: -4.6vw 0 0 -22%;
+}
+
+
+/*		СЕКЦІЯ 4		*/
+
+.hide {
+	visibility: hidden;
+}
+
+.section-3 {
+	position: relative;
+	width: 100%;
+	z-index: 1;
+}
+
+.section-3-content {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+
+.section-3 .bunch-1 {
+	position: absolute;
+	top: 3.27vw;
+	left: 2.31%;
+	width: 8.6%;
+	z-index: 2;
+}
+
+.section-3 .bunch-2 {
+	position: absolute;
+	left: 23%;
+	top: 7vw;
+	width: 5.5%;
+	z-index: 2;
+}
+
+.section-3 .star-s3 {
+	position: absolute;
+	top: -5px;
+	left: 27%;
+	width: 8.8%;
+	z-index: 2;
+}
+
+.section-3 .bunch-3 {
+	position: absolute;
+	top: 4vw;
+	left: 39.5%;
+	width: 5.5%;
+	z-index: 2;
+}
+
+.section-3 .toy-s3 {
+	position: absolute;
+	top: -6.5vw;
+	right: -1%;
+	width: 33%;
+	z-index: 2;
+}
+
+.section-3 .bunch-4 {
+	position: absolute;
+	top: -15px;
+	right: 1%;
+	width: 6.9%;
+	z-index: 2;
+}
+
+.section-3 .book {
+	position: absolute;
+	top: 7.8vw;
+	right: 0;
+	width: 17.5%;
+	z-index: 2;
+}
+
+.section-3 .big-ball {
+	position: absolute;
+	top: 18.3vw;
+	width: 10.7%;
+	z-index: 2;
+}
+
+.section-3 .bunch-5 {
+	position: absolute;
+	top: 45.7vw;
+	width: 6.6%;
+	left: 1%;
+	z-index: 2;
+}
+
+.section-3 .candy {
+	position: absolute;
+	top: 44.1vw;
+	left: 0.5%;
+	width: 19%;
+	z-index: 2;
+}
+
+/*		КОНТЕНТ
+		ОТРИМАННЯ ЗАМОВЛЕННЯ		*/
+
+.section-3 .s3-caption {
+	color: #4d2436;
+	margin: 12vw 0 0 40%;
+
+}
+
+.section-3 .s3-caption p {
+	font-family: 'Sunday-Regular';
+	font-size: 4.3em;
+	text-transform: uppercase;
+}
+
+.section-3 .s3-content {
+	display: inline-flex;
+	justify-content: space-between;
+	text-align: center;
+	margin: 6.4vw 16.8%;
+
+}
+
+.s3-content p {
+	margin-top: 3.2%;
+	font-family: cursive;
+	font-size: 1.7em;
+	text-transform: uppercase;
+	line-height: 1.3em;
+}
+
+.s3-content .s3-part1 {
+
+	width: 19%;
+}
+
+.s3-content .s3-part2 {
+
+	width: 20%;
+}
+
+.s3-content .s3-part3 {
+
+	width: 20.4%;
+}
+
+.s3-content .s3-part4 {
+
+	width: 24%;
+}
+
+
+/*		FOOTER		*/
+
+footer {
+	position: relative;
+	width: 100%;
+	z-index: 0;
+}
+
+footer .footer-content {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+
+
+footer .footer-description {
+	display: block;
+	text-align: center;
+	margin: 9.7vw 34.4% 0 37%;
+	background: rgba(255, 255, 255, 0.6);
+	border-radius: 15px;
+	text-transform: uppercase;
+
+}
+
+footer .f-caption {
+	font-family: 'Sunday-Regular';
+	margin-bottom: 0.8vw;
+	font-size: 2.3em;
+	padding-top: 4.3vw;
+}
+
+footer .f-adress p {
+	font-family: cursive;
+	font-size: 1.9em;
+}
+
+footer .f-mail {
+	margin: 1.7vw 0;
+}
+
+footer .f-mail p {
+	font-size: 1.8em;
+	font-family: sans-serif;
+	line-height: 1.4em;
+}
+
+footer .f-mail a {
+	font-size: 1.7em;
+	font-family: sans-serif;
+	text-decoration: underline;
+	color: red;
+}
+
+footer .f-time-work p {
+	font-size: 1.8em;
+	font-family: sans-serif;
+	line-height: 1.2em;
+}
+
+footer .f-reserve {
+	padding: 2.2vw 0 5.5vw 23%;
+	width: 51%;
+}
+
+footer .up {
+	position: absolute;
+	bottom: 11.3vw;
+	right: 3.8%;
+	width: 5%;
+}

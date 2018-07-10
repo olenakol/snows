@@ -1,0 +1,1257 @@
+@media (min-width: 1500px) {
+
+	/*		МЕНЮ	*/
+	.header-contant .main-menu .mini-menu a {
+		margin-right: 11%;
+		font-size: 3.3em;
+	}
+
+	.header-contant .btn-call span {
+		top: 2.8vw;
+		font-size: 2.6em;
+	}
+
+	.header-contant .btn-caret span {
+		top: 2.3vw;
+		font-size: 2em;
+	}
+
+	.header-contant .btn-call .tel p {
+		font-size: 3em;
+	}
+
+	.header-contant .btn-call .tel .big-numb {
+		font-size: 3em;
+	}
+
+	/*	ВЕЛИКИЙ ТЕКСТ СЕКЦІЇ-1		*/
+	.title-in-crnter-head p {
+		width: 40%;
+		margin-left: 7%;
+		margin-top: 7vw;
+		font-size: 10.5em;
+		color: #fff;
+		font-family: 'Sunday-Regular';
+	}
+
+	/*		СЕКЦІЯ 2		*/
+	/*		ЗАГОЛОВОК		*/
+	.section-1 .slider-description {
+		top: 3.5vw;
+	}
+
+	.section-1 .slider-big-name {
+		font-size: 5em;
+	}
+
+	.section-1 .slider-little-name {
+		font-size: 3em;
+		line-height: 3em;
+	}
+
+
+	/*		СЕКЦІЯ 3		*/
+	.section-3 .s3-caption p {
+		font-size: 5em;
+	}
+	.s3-content p {
+		font-size: 2em;
+	}
+
+
+
+	/*		СЕКЦІЯ 3		*/
+	/*		ТІЛО БЛОКУ 		*/
+	/*		ЗАГОЛОВОК		*/
+	.section-2 .order-proposition p {
+		font-size: 5em;
+	}
+
+	/*			ФОРМА ЗАМОВЛЕННЯ		*/
+	.section-2 .tree-bord {
+		width: 60%;
+	}
+
+
+	.section-2 form .make-order {
+		top: 15vw;
+	}
+
+	.section-2 form input {
+		padding: 7% 0;
+		font-size: 2.7em;
+	}
+
+	.section-2 form .order-btn p {
+		top: 1vw;
+		left: 25%;
+		font-size: 3.5em;
+	}
+
+
+	/*			КОРОБОЧКИ			*/
+	.section-2 .box1 {
+		width: 94.5%;
+		margin: 3.1vw 0 0 -4.5%;
+	}
+
+	.section-2 .box-2 {
+		width: 125%;
+		margin: -4.4vw 0 0 -28.5%;
+	}
+
+
+
+
+}
+
+
+@media (max-width: 1350px) {
+
+	/*	МЕНЮ	*/
+	.header-contant .main-menu .mini-menu a {
+		font-size: 2.7em;
+	}
+
+	.header-contant .btn-caret span {
+		top: 2.6vw;
+	}
+
+	/*	СЕКЦІЯ-1 	ВЕЛИКИЙ ТЕКСТ*/
+	.title-in-crnter-head p {
+		font-size: 5em;
+	}
+
+
+
+
+	.section-3 .s3-caption p {
+		font-size: 4em;
+	}
+	.s3-content p {
+		font-size: 1.6em;
+	}
+
+
+}
+
+@media (max-width: 1300px) {
+
+	/*		МЕНЮ	*/
+	.header-contant .main-menu .mini-menu a {
+		margin-right: 11%;
+		font-size: 2.8em;
+	}
+
+	.header-contant .btn-call {
+		width: 24%;
+		padding-top: 2.1%;
+	}
+
+	.header-contant .btn-call span {
+		right: 18%;
+		top: 3vw;
+		font-size: 2em;
+	}
+
+	.header-contant .btn-caret {
+		padding-top: 20px;
+		padding-left: 2%;
+		width: 5%;
+	}
+
+	.header-contant .btn-caret span {
+		top: 2.5vw;
+		right: 16%;
+		font-size: 1.45em;
+	}
+
+	.section-1 .slider-big-name {
+		font-size: 3.87em;
+	}
+
+	.section-1 .slider-little-name {
+		font-size: 2.3em;
+		line-height: 3em;
+	}
+
+	.section-2 p {
+		font-size: 4em;
+	}
+
+	.section-3 .s3-caption p {
+		font-size: 3.8em;
+	}
+
+	.s3-content p {
+		font-size: 1.5em;
+	}
+}
+
+
+
+@media (max-width: 1270px) {
+
+	/*		МЕНЮ	*/
+	.header-contant .main-menu .mini-menu a {
+		font-size: 2.5em;
+	}
+
+	.header-contant .btn-caret span {
+		top: 2.6vw;
+	}
+
+	.header-contant .btn-call span {
+		top: 2.7vw;
+		font-size: 1.9em;
+		right: 17%;
+	}
+
+	.header-contant .btn-call .tel p {
+		font-size: 1.2em;
+	}
+
+	.header-contant .btn-call .tel .big-numb {
+		font-size: 2.2em;
+	}
+
+	.section-1 .slider .slides .slides-text {
+		font-size: 20px;
+	}
+	.section-2 p {
+		font-size: 3.8em;
+	}
+
+	.s3-content p {
+		font-size: 1.4em;
+	}
+
+
+}
+
+@media (max-width: 1200px) {
+
+	/*		МЕНЮ	*/
+	.header-contant .main-menu .mini-menu a {
+		font-size: 2.3em;
+	}
+
+
+	.section-1 .slider-big-name {
+		font-size: 3.6em;
+	}
+
+	.section-1 .slider-little-name {
+		font-size: 2.4em;
+		line-height: 2.7em;
+	}
+	.section-2 p {
+		font-size: 3.5em;
+	}
+	.section-3 .s3-caption p {
+		font-size: 3.5em;
+	}
+	.s3-content p {
+		font-size: 1.3em;
+	}
+
+
+	/*		СЕКЦІЯ 3		*/
+	/*		ЗАГОЛОВОК		*/
+	.section-2 .order-proposition p {
+		font-size: 3.5em;
+	}
+
+	/*			ФОРМА ЗАМОВЛЕННЯ		*/
+	.section-2 form input {
+		width: 95%;
+		padding: 7% 0 6.5% 6%;
+		font-size: 2em;
+	}
+
+	.section-2 form .order-btn p {
+		top: 0.7vw;
+		left: 20%;
+		font-size: 2.7em;
+	}
+
+}
+
+@media (max-width: 1100px) {
+
+	/*	СЕКЦІЯ-1 	МЕНЮ	*/
+	/*			МЕНЮ		*/
+	.header-contant .main-menu .mini-menu a {
+		font-size: 2.1em;
+	}
+
+	.header-contant .btn-call span {
+		font-size: 1.7em;
+		right: 14%;
+	}
+
+	.header-contant .btn-caret span {
+		top: 2.9vw;
+		font-size: 1.4em;
+	}
+
+	.header-contant .btn-call .tel p {
+		font-size: 1.1em;
+	}
+
+	.header-contant .btn-call .tel .big-numb {
+		font-size: 2em;
+	}
+
+	.section-1 .slider-big-name {
+		font-size: 3.27em;
+	}
+
+	.section-1 .slider-little-name {
+		font-size: 2.2em;
+		line-height: 2.2em;
+	}
+
+
+
+	/*	СЕКЦІЯ-1 	ВЕЛИКИЙ ТЕКСТ*/
+	.title-in-crnter-head p {
+		font-size: 4em;
+	}
+
+	/*	СЕКЦІЯ-2 */
+	.section-1 .slider .slides .slides-text {
+		top: 31.1vw;
+		left: 44%;
+		font-size: 17px;
+	}
+	.section-2 p {
+		font-size: 3.3em;
+	}
+	.section-3 .s3-caption p {
+		font-size: 3.2em;
+	}
+	.s3-content p {
+		font-size: 1.2em;
+	}
+
+
+	/*		FOOTER		*/
+	footer .f-caption {
+		font-size: 1.7em;
+	}
+
+	footer .f-adress p {
+		font-size: 1.5em;
+	}
+	footer .f-mail p {
+		font-size: 1.5em;
+		line-height: 1em;
+	}
+	footer .f-mail a {
+		font-size: 1.5em;
+		font-family: sans-serif;
+		text-decoration: underline;
+		color: red;
+	}
+
+	footer .f-time-work p {
+		font-size: 1.4em;
+	}
+}
+
+
+@media (max-width: 1000px) {
+
+	/*	СЕКЦІЯ-1 	МЕНЮ	*/
+	.header-contant .main-menu .mini-menu a {
+		font-size: 1.8em;
+	}
+
+	.header-contant .btn-call span {
+		font-size: 1.5em;
+	}
+
+	.header-contant .btn-caret span {
+		top: 3.3vw;
+		font-size: 1.2em;
+	}
+
+	.header-contant .btn-call .tel p {
+		font-size: 0.9em;
+	}
+
+	.header-contant .btn-call .tel .big-numb {
+		font-size: 1.7em;
+	}
+
+	/*	СЕКЦІЯ-2		*/
+	.section-1 .slider-description {
+		top: 2vw;
+	}
+
+	.section-1 .slider-big-name {
+		font-size: 2.87em;
+	}
+
+	.section-1 .slider-little-name {
+		font-size: 1.9em;
+		line-height: 4em;
+	}
+	.section-2 p {
+		font-size: 2.9em;
+	}
+	.section-3 .s3-caption p {
+		font-size: 3em;
+	}
+	.s3-content p {
+		font-size: 1.1em;
+	}
+
+	/*		СЕКЦІЯ 3		*/
+	/*		ЗАГОЛОВОК		*/
+	.section-2 .order-proposition p {
+		font-size: 2.9em;
+	}
+
+	/*			ФОРМА ЗАМОВЛЕННЯ		*/
+	.section-2 form input {
+		width: 90%;
+		padding: 7% 5%;
+		font-size: 2em;
+	}
+
+	.section-2 form .order-btn p {
+		top: 1.1vw;
+		left: 17%;
+		font-size: 2.1em;
+	}
+
+}
+
+@media (max-width: 870px) {
+
+	/*	СЕКЦІЯ-1 	МЕНЮ		*/
+	.header-contant .main-menu .mini-menu a {
+		font-size: 1.5em;
+	}
+
+	.header-contant .btn-call span {
+		font-size: 1.2em;
+	}
+
+	.header-contant .btn-caret span {
+		top: 3.4vw;
+		font-size: 1.2em;
+	}
+
+	.header-contant .btn-call .tel p {
+		font-size: 0.8em;
+	}
+
+	.header-contant .btn-call .tel .big-numb {
+		font-size: 1.4em;
+	}
+
+	/*	СЕКЦІЯ-1 	ВЕЛИКИЙ ТЕКСТ*/
+	.title-in-crnter-head p {
+		font-size: 3.5em;
+	}
+
+
+	/*	СЕКЦІЯ-2*/
+	.section-1 .slider-big-name {
+		font-size: 2.56em;
+	}
+
+	.section-1 .slider-little-name {
+		font-size: 1.6em;
+		line-height: 3em;
+	}
+	.section-3 .s3-caption p {
+		font-size: 2.5em;
+	}
+	.s3-content p {
+		font-size: 1em;
+	}
+	/*		FOOTER		*/
+	footer .footer-description {
+		margin: 4vw 24.4% 0 27%;
+
+	}
+
+}
+
+@media (max-width: 800px) {
+	/*		ВМІСТ СЛАЙДИКІВ		*/
+	/*		СЛАЙДИКИ		*/
+	.section-1 .slider .slides .slides-main {
+		width: 87%;
+	}
+
+
+	.section-1 .slider .slides .slides-contant {
+		top: 15vw;
+		width: 70%;
+
+	}
+
+
+	.section-1 .slider .slides .slides-text {
+		top: 36vw;
+		left: 33%;
+		font-size: 22px;
+		z-index: 6;
+	}
+
+	.bunch-s2 {
+		top: 52.9vw;
+		left: 0;
+		width: 15%;
+		z-index: 1;
+	}
+	.section-3 .s3-caption p {
+		font-size: 2.3em;
+	}
+}
+
+@media (max-width: 770px) {
+
+	/*	СЕКЦІЯ-1 	ВЕЛИКИЙ ТЕКСТ*/
+	.title-in-crnter-head p {
+		font-size: 2.9em;
+	}
+
+	/*		ГОЛОВНЕ МЕНЮ		*/
+	/*		СЕКЦІЯ 3		*/
+	/*		ЗАГОЛОВОК		*/
+	.section-2 .order-proposition .caption-s2 {
+		margin: 0.5vw 0 0 2%;
+	}
+
+	.section-2 .order-proposition p {
+		font-size: 2em;
+	}
+
+	/*			ФОРМА ЗАМОВЛЕННЯ		*/
+	.section-2 .tree-bord {
+		margin: -4vw 0 0 1%;
+	}
+
+
+	.section-2 form .make-order {
+		top: 13vw;
+		left: 29.2%;
+		width: 40%;
+	}
+
+	.section-2 form input {
+		width: 95%;
+		padding: 7% 0 6.5% 6%;
+		font-size: 1.5em;
+	}
+
+	.section-2 form .order-btn p {
+		top: 3px;
+		left: 17%;
+		font-size: 1.7em;
+	}
+
+
+	/*			КОРОБОЧКИ			*/
+	.section-2 .box1 {
+		width: 75.5%;
+		margin: 3vw 0 0 -2%;
+	}
+
+	.section-2 .box-2 {
+		width: 100%;
+		margin: -4.6vw 0 0 -22%;
+	}
+
+
+
+	.section-3 .s3-caption p {
+		font-size: 3em;
+	}
+
+
+}
+
+@media (max-width: 735px) {
+	/*		ВМІСТ СЛАЙДИКІВ		*/
+	/*		СЛАЙДИКИ		*/
+	.section-1 .slider .slides .slides-main {
+		width: 60%;
+
+	}
+
+	.section-1 .slider .slides .slides-contant {
+		top: 15vw;
+		width: 50%;
+		left: 7%;
+
+	}
+
+
+	.section-1 .slider .slides .slides-text {
+		top: 36.5vw;
+		left: 24%;
+		font-size: 15px;
+		z-index: 6;
+	}
+	.bunch-s2 {
+		top: 69vw;
+		left: 0;
+		width: 18%;
+		z-index: 1;
+	}
+}
+
+
+
+
+@media (max-width: 700px) {
+
+	/*	СЕКЦІЯ-1 	МЕНЮ		*/
+	.header-contant .main-menu .mini-menu a {
+		font-size: 1.3em;
+	}
+
+	.header-contant .btn-call span {
+		font-size: 1.1em;
+	}
+
+	.header-contant .btn-caret span {
+		top: 3.8vw;
+		font-size: 1.1em;
+	}
+
+	.header-contant .btn-call .tel p {
+		font-size: 1.2em;
+		line-height: 1em;
+	}
+
+	.header-contant .btn-call .tel .big-numb {
+		font-size: 1.4em;
+	}
+
+	.section-1 .slider-big-name {
+		font-size: 2.2em;
+	}
+
+	.section-1 .slider-little-name {
+		font-size: 1.8em;
+		line-height: 2em;
+	}
+
+	.section-2 p {
+		font-size: 2.2em;
+	}
+
+}
+
+
+@media (max-width: 660px) {
+	.header-contant .btn-call .tel .big-numb {
+		font-size: 1.3em;
+	}
+}
+
+
+@media (max-width: 599px) {
+
+	.bg {
+		display: none;
+	}
+	.mini-bg {
+		display: flex;
+		position: relative;
+		width: 100%;
+		height: auto;
+		z-index: 0;
+	}
+
+	/*		 IMG ПЕРШОЇ СЕКЦІЇ		*/
+	.header-contant .logo {
+		width: 30%;
+	}
+
+	.header-contant .treeLeft {
+		width: 42%;
+	}
+
+	.header-contant .treeRight {
+		width: 33%;
+	}
+
+	.ball {
+		top: 37vw;
+		right: 0;
+		width: 15%;
+	}
+	.bunchesRignt {
+		top: 100.3vw;
+		z-index: 1;
+		width: 25%;
+	}
+
+	.bunch {
+		left: 8%;
+		top: 110.47vw;
+		z-index: 3;
+		width: 15%;
+	}
+	.starLeftLittle {
+		left: 19.1%;
+		top: 66.3vw;
+		z-index: 3;
+		width: 6%;
+	}
+	.canella {
+		top: 160vw;
+		width: 15%;
+		z-index: 2;
+	}
+
+	/*	СЕКЦІЯ-1 	МЕНЮ		
+
+	/*		КНОПКА РОЗГОРТАННЯ		*/
+	.content .sidebar {
+		order: 1;
+		position: relative;
+		z-index: 7;
+		display: block;
+		padding: 10px 7% 0 20%;
+	}
+
+	/*		КНОПКА ЗГОРТАННЯ		*/
+	.mini-menu #close-slide a {
+		display: block;
+		position: absolute;
+		right: 5%;
+		font-size: 2em;
+	}
+	/*			МЕНЮ		*/
+	.header-contant .content .menu {
+		text-align: center;
+		margin: 0 0 0 3.%;
+		display: flex;
+	}
+	.header-contant .content .main-menu {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		width: 100%;
+	}
+	.header-contant .content .mini-menu {
+		display: none;
+		position: absolute;
+		top: 0;
+		left: 0;
+		z-index: 8;
+		padding: 10px 0;
+		width: 100%;
+		background: #48474a;
+	}
+
+	.header-contant .main-menu .mini-menu a {
+		display: block;
+		margin-right: 0;
+		margin-bottom: 10px;
+		font-size: 4em;
+	}
+	.header-contant .btn-call {
+		margin-top: 24px;
+		order: 3;
+		position: relative;
+		display: block;
+		width: 100%;
+		z-index: 7;
+	}
+	.header-contant .btn-call .just-call {
+		position: relative;
+		margin-left: 20px;
+
+		display: block;
+		width: 60%;
+	}
+	.header-contant .btn-call .just-call span {
+		right: 12%;
+		top: 2.4vw;
+		font-size: 2em;
+	}
+
+	.header-contant .btn-call .tel {
+		width: 80%;
+		margin-left: -10%;
+	}
+	.header-contant .btn-call .tel P {
+		font-size: 2em;
+		line-height: 1em;
+	}
+	.header-contant .btn-call .tel .big-numb {
+		font-size: 2.4em;
+	}
+
+	.header-contant .btn-caret {
+		order: 2;
+		padding-top: 5px;
+		width: 10%;
+	}
+
+	.header-contant .btn-caret span {
+		top: 2.7vw;
+		right: 20%;
+		font-size: 1.39em;
+	}
+
+	/*	СЕКЦІЯ-1 	ВЕЛИКИЙ ТЕКСТ*/
+	.title-in-crnter-head {
+		margin-top: 11vw;
+		display: block;
+		position: relative;
+		z-index: 4;
+	}
+	.title-in-crnter-head .playArea {
+		width: 70%;
+		margin-left: 20%;
+	}
+
+	.title-in-crnter-head p {
+		width: 70%;
+		margin-left: 17%;
+		margin-top: -9vw;
+		font-size: 6.5em;
+	}
+
+
+
+	/*		СЕКЦІЯ	2	*/
+	.section-1 .slider-description {
+		position: absolute;
+		top: 3.4vw;
+		left: 15.5%;
+		line-height: 2em;
+	}
+
+	.section-1 .slider-big-name {
+		font-size: 4.39em;
+	}
+
+	.section-1 .slider-little-name {
+		font-size: 3em;
+		line-height: 2em;
+	}
+
+	/*		МОТУЗКА		*/
+	.section-1 .rope {
+		top: 41vw;
+	}
+
+	/*		ВМІСТ СЛАЙДИКІВ		*/
+	.section-1 .slider .slides {
+		height: 790px;
+		position: relative;
+	}
+
+	.section-1 .slider .rotation-1 {
+		width: 90%;
+		transform: rotate(4deg);
+	}
+
+	.section-1 .slider .rotation-2 {
+		width: 90%;
+		transform: rotate(-4deg);
+	}
+
+	.section-1 .slider .rotation-3 {
+		width: 90%;
+		transform: rotate(3deg);
+	}
+
+	.section-1 .slider .rotation-4 {
+		width: 90%;
+		transform: rotate(-3deg);
+	}
+
+	/*		СЛАЙДИКИ		*/
+	.section-1 .slider .slides .slides-main {
+		top: 15vw;
+		width: 90%;
+		left: 5%;
+		z-index: 6;
+
+	}
+
+	.section-1 .slider .slides .slides-contant {
+		top: 56vw;
+		width: 74%;
+		left: 15%;
+
+	}
+
+
+	.section-1 .slider .slides .slides-text {
+		top: 117vw;
+		left: 47%;
+		font-size: 24px;
+	}
+	.section-1 .prev {
+		top: 101.3vw;
+		left: 5%;
+		width: 6%;
+		z-index: 4;
+	}
+
+	.section-1 .next {
+		position: absolute;
+		top: 101.3vw;
+		right: 5%;
+		width: 6%;
+		z-index: 4;
+	}
+	.bunch-s2 {
+		position: absolute;
+		top: 149.9vw;
+		left: 0;
+		width: 30%;
+		z-index: 1;
+	}
+
+	.tree-midle {
+		top: 92.5vw;
+		width: 46.1%;
+
+	}
+
+	/*			СЕКЦІЯ 3							*/
+	/*	 		КАРТИНК БЛОКУ 						*/
+	.section-2 .santa {
+		width: 15%;
+		top: 75vw;
+		left: 70%;
+
+	}
+	/*		ЗАГОЛОВОК		*/
+	.section-2 .order-proposition p {
+		font-size: 3em;
+	}
+	/*			ФОРМА ЗАМОВЛЕННЯ + КОРОБОЧКИ		*/
+	.order-proposition .inline-content {
+		display: block;
+	}
+
+
+
+
+	/*			ФОРМА ЗАМОВЛЕННЯ		*/
+	.section-2 .tree-bord {
+		width: 80%;
+		margin: 0 0 0 10%;
+	}
+
+
+	.section-2 form .make-order {
+		top: 24vw;
+	}
+
+	.section-2 form .order-btn p {
+		top: 2.3vw;
+		left: 30%;
+		/*	font-size: 1.7em;*/
+	}
+
+
+	/*			КОРОБОЧКИ			*/
+	.section-2 .box1 {
+		width: 50%;
+		margin: -5vw 0 0 5%;
+	}
+
+	.section-2 .box-2 {
+		width: 75%;
+		margin: 0 0 0 10%;
+	}
+
+	/*		СЕКЦІЯ 4		*/
+	.section-3 .bunch-1 {
+		display: none;
+	}
+
+	.section-3 .bunch-2 {
+		left: 29%;
+		top: 15vw;
+		width: 5.5%;
+	}
+
+	.section-3 .star-s3 {
+		top: 12vw;
+		left: 17%;
+	}
+
+	.section-3 .bunch-3 {
+		left: 44.5%;
+	}
+
+	.section-3 .toy-s3 {
+		top: -15vw;
+		right: -1%;
+		width: 45%;
+	}
+
+	.section-3 .bunch-4 {
+		top: 10vw;
+		right: 1%;
+		width: 8%;
+	}
+
+	.section-3 .book {
+		display: none;
+	}
+
+	.section-3 .big-ball {
+		top: 8.3vw;
+		width: 10.7%;
+	}
+
+	.section-3 .bunch-5 {
+		top: 107vw;
+		width: 10%;
+		left: 1%;
+	}
+
+	.section-3 .candy {
+		top: 130vw;
+		left: 74%;
+		width: 25%;
+	}
+
+	/*		КОНТЕНТ
+		ОТРИМАННЯ ЗАМОВЛЕННЯ		*/
+	.section-3 .s3-caption {
+		top: 20vw;
+		left: 20%;
+
+	}
+
+	.section-3 .s3-content {
+		display: block;
+		text-align: center;
+		position: relative;
+		margin: 0;
+
+	}
+	.section-3 .s3-content .inline {
+		display: inline-flex;
+		width: 70%;
+		margin-top: 4vw;
+	}
+
+	.s3-content p {
+		width: 60%;
+		padding-top: 7.2%;
+		margin: 0;
+		font-size: 1.7em;
+		line-height: 1.3em;
+	}
+
+	.s3-content .s3-part1 img {
+		width: 35%;
+		align-self: flex-start;
+	}
+
+	.s3-content .s3-part2 img {
+		width: 35%;
+		align-self: flex-start;
+	}
+
+	.s3-content .s3-part3 img {
+		width: 35%;
+		align-self: flex-start;
+	}
+
+	.s3-content .s3-part4 img {
+		width: 35%;
+		align-self: flex-start;
+	}
+
+	/*		FOOTER		*/
+	footer .footer-description {
+		margin: 20vw 15% 0 15%;
+	}
+	footer .f-caption {
+		margin-bottom: 4vw;
+		font-size: 3em;
+		padding-top: 10vw;
+	}
+
+	footer .f-adress p {
+		font-size: 2em;
+		line-height: 1.5em;
+	}
+	footer .f-mail p {
+		font-size: 2em;
+		line-height: 2.2em;
+	}
+	footer .f-mail a {
+		font-size: 1.7em;
+	}
+
+	footer .f-time-work p {
+		font-size: 1.8em;
+		font-family: sans-serif;
+		line-height: 1.2em;
+	}
+	footer .f-reserve {
+		padding: 7vw 0 10vw 25%;
+		width: 51%;
+	}
+
+}
+
+
+@media (max-width: 560px) {
+
+	/*		СЕКЦІЯ	2	*/
+	.section-1 .slider-big-name {
+		font-size: 3em;
+	}
+
+	.section-1 .slider-little-name {
+		font-size: 3em;
+		line-height: 2em;
+	}
+}
+
+
+
+@media (max-width: 500px) {
+	/*	МЕНЮ КНОПКА ЗВІНКА*/
+	.header-contant .btn-call .just-call span {
+		right: 16%;
+		top: 3vw;
+		font-size: 1.5em;
+	}
+
+	.header-contant .btn-call .tel P {
+		font-size: 1.8em;
+		line-height: 1em;
+	}
+	.header-contant .btn-call .tel .big-numb {
+		font-size: 2em;
+	}
+
+}
+
+@media (max-width: 450px) {
+
+	/*	СЕКЦІЯ-1 	ВЕЛИКИЙ ТЕКСТ*/
+	.title-in-crnter-head p {
+		font-size: 5em;
+	}
+
+	.header-contant .btn-caret span {
+		right: 14%;
+		font-size: 1.1em;
+	}
+
+	/*			СЕКЦІЯ 3				*/
+	/*			ФОРМА ЗАМОВЛЕННЯ		*/
+	.section-2 form .make-order {
+		left: 29.2%;
+		width: 37%;
+	}
+
+	.section-2 form .make-order {
+		top: 24vw;
+	}
+
+	.section-2 form .order-btn p {
+		font-size: 1.5em;
+	}
+
+
+	/*		КОНТЕНТ
+		ОТРИМАННЯ ЗАМОВЛЕННЯ		*/
+	.section-3 .bunch-2 {
+		display: none;
+	}
+	.section-3 .s3-caption {
+		margin: 12vw 0 0 30%;
+	}
+
+	.section-3 .s3-caption p {
+		font-size: 2em;
+	}
+
+	.s3-content p {
+		width: 70%;
+		padding-top: 5%;
+		font-size: 1.3em;
+		line-height: 1em;
+	}
+}
+
+
+@media (max-width: 400px) {
+
+	/*	МЕНЮ КНОПКА ЗВІНКА*/
+	.header-contant .btn-call .just-call span {
+		font-size: 1.2em;
+	}
+
+	.header-contant .btn-call .tel P {
+		font-size: 1.5em;
+		line-height: 1em;
+	}
+	.header-contant .btn-call .tel .big-numb {
+		font-size: 1.8em;
+	}
+
+	/*	СЕКЦІЯ-1 	ВЕЛИКИЙ ТЕКСТ*/
+	.title-in-crnter-head p {
+		font-size: 3.28em;
+	}
+
+
+	/*	СЕКЦІЯ 2*/
+	.section-1 .slider-big-name {
+		font-size: 2.5em;
+	}
+
+	.section-1 .slider-little-name {
+		font-size: 2em;
+	}
+
+	/*		СЛАЙДИКИ		*/
+	.section-1 .slider .slides .slides-text {
+
+		font-size: 2em;
+		z-index: 6;
+	}
+
+	/*			СЕКЦІЯ 3				*/
+	/*		ЗАГОЛОВОК		*/
+	.section-2 .order-proposition p {
+		font-size: 2em;
+	}
+	/*			ФОРМА ЗАМОВЛЕННЯ		*/
+	.section-2 form .make-order {
+		top: 22vw;
+	}
+
+	.section-2 form .order-btn p {
+		font-size: 1em;
+	}
+
+	.section-2 form input {
+		font-size: 1em;
+	}
+
+	footer .f-adress p {
+		font-size: 1.3em;
+		line-height: 2em;
+	}
+
+}
